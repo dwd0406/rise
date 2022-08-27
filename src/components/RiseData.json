@@ -1,0 +1,2134 @@
+[
+    {
+        "DecorationName": "奪氣珠",
+        "DecorationName1": "奪氣珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "奪取耐力",
+        "DecId": "1233",
+        "SkillId": "3001",
+        "skillMaxLv": "3",
+        "skillCotent": "特定攻擊會更容易使魔物疲勞。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:奪取10%",
+                "s2": "。2級:奪取20%",
+                "s3": "。3級:奪取30%"
+            }
+        ]
+    },
+    {
+        "DecId": "1342",
+        "SkillId": "3012",
+        "skillMaxLv": "3",
+        "skillCotent": "令使用翔蟲的技巧更加熟練。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:野生翔蟲的可使用時間變為1.3倍",
+                "s2": "。2級:額外提升翔蟲受身的回復速度",
+                "s3": "。3級:額外提升在地面時的回復速度"
+            }
+        ],
+        "DecorationName": "翔蟲珠",
+        "DecorationName1": "翔蟲珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "翔蟲能手"
+    },
+    {
+        "DecId": "1023",
+        "SkillId": "3032",
+        "skillMaxLv": "3",
+        "skillCotent": "在壁面上奔跑時的耐力消耗減少。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:在壁面上奔跑時的耐力消耗減少25%",
+                "s2": "。2級:在壁面上奔跑時的耐力消耗減少55%",
+                "s3": "。3級:在壁面上奔跑後，額外提升攻擊力一段時間。"
+            }
+        ],
+        "DecorationName": "走壁珠",
+        "DecorationName1": "走壁珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "飛簷走壁"
+    },
+    {
+        "DecId": "1293",
+        "SkillId": "3004",
+        "skillMaxLv": "3",
+        "skillCotent": "延長部分道具的效果時間",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果時間1.1倍",
+                "s2": "。2級:效果時間1.25倍",
+                "s3": "。3級:效果時間1.5倍"
+            }
+        ],
+        "DecorationName": "持續珠",
+        "DecorationName1": "持續珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "道具使用強化"
+    },
+    {
+        "DecId": "1895",
+        "SkillId": "3005",
+        "skillMaxLv": "5",
+        "skillCotent": "延長迴避時的無敵時間。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:極小幅延長無敵時間",
+                "s2": "。2級:小幅延長無敵時間",
+                "s3": "。3級:延長無敵時間",
+                "s4": "。4級:大幅延長無敵時間",
+                "s5": "。5級:極大幅延長無敵時間"
+            }
+        ],
+        "DecorationName": "迴避珠",
+        "DecorationName1": "迴避珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "迴避性能"
+    },
+    {
+        "DecId": "1220",
+        "SkillId": "3006",
+        "skillMaxLv": "2",
+        "skillCotent": "抑制弩槍射出彈藥的偏移。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:降低偏移1個階段",
+                "s2": "。2級:降低偏移2個階段"
+            }
+        ],
+        "DecorationName": "點射珠",
+        "DecorationName1": "點射珠",
+        "DecorationName2": "點射珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecorationSlots2": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "DecSkillGrade2": "lll",
+        "skill": "抑制偏移"
+    },
+    {
+        "DecId": "1054",
+        "SkillId": "3007",
+        "skillMaxLv": "3",
+        "skillCotent": "降低弩槍射出彈藥時的後座力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:降低後座力1個階段",
+                "s2": "。2級:降低後座力1個階段",
+                "s3": "。3級:降低後座力3個階段"
+            }
+        ],
+        "DecorationName": "抑反珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "後座力減輕"
+    },
+    {
+        "DecId": "1033",
+        "SkillId": "3008",
+        "skillMaxLv": "5",
+        "skillCotent": "體力在最大值的35%以下時，防禦力與攻擊力會提升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，防禦力+50",
+                "s2": "。2級:技能發動時，攻擊力1.05倍、防禦力+50",
+                "s3": "。3級:技能發動時，攻擊力1.05倍、防禦力+100",
+                "s4": "。4級:技能發動時，攻擊力1.1倍、防禦力+100",
+                "s5": "。5級:技能發動時，攻擊力1.3倍、無提升防禦力效果"
+            }
+        ],
+        "DecorationName": "潛力珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "火場怪力"
+    },
+    {
+        "DecId": "1209",
+        "SkillId": "3009",
+        "skillMaxLv": "3",
+        "skillCotent": "銳利度較差時，攻擊力提升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:銳利度在黃色以下時，攻擊力為1.05倍",
+                "s2": "。2級:銳利度在黃色以下時，攻擊力為1.1倍",
+                "s3": "。3級:銳利度在綠色以下時，攻擊力為1.1倍"
+            }
+        ],
+        "DecorationName": "鈍器珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "鈍器能手"
+    },
+    {
+        "DecId": "1010",
+        "SkillId": "3010",
+        "skillMaxLv": "5",
+        "skillCotent": "特定攻擊會更容易使魔物疲勞。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:固定耐力消耗量減少10%",
+                "s2": "。2級:固定耐力消耗量減少20%",
+                "s3": "。3級:固定耐力消耗量減少30%",
+                "s4": "。4級:固定耐力消耗量減少40%",
+                "s5": "。5級:固定耐力消耗量減少50%"
+            }
+        ],
+        "DecorationName": "體術珠",
+        "DecorationName1": "體術珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "體術"
+    },
+    {
+        "DecId": "1323",
+        "SkillId": "3213",
+        "skillMaxLv": "3",
+        "skillCotent": "加快收起武器的速度。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:速度小幅上升  ",
+                "s2": "。2級:速度上升",
+                "s3": "。3級:速度大幅上升速度大幅上升"
+            }
+        ],
+        "DecorationName": "速納珠",
+        "DecorationName1": "速納珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "收刀術"
+    },
+    {
+        "DecId": "1764",
+        "SkillId": "3334",
+        "skillMaxLv": "3",
+        "skillCotent": "食用、飲用類的道具有一定機率可再次使用。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果發動機率10%",
+                "s2": "。2級:效果發動機率25%",
+                "s3": "。3級:效果發動機率45%"
+            }
+        ],
+        "DecorationName": "節食珠",
+        "DecorationName1": "節食珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "滿足感"
+    },
+    {
+        "DecId": "1092",
+        "SkillId": "3375",
+        "skillMaxLv": "3",
+        "skillCotent": "提高體力回復時的回復量。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:微量增加回復量",
+                "s2": "。2級:小幅增加回復量",
+                "s3": "。3級:大幅增加回復量"
+            }
+        ],
+        "DecorationName": "治癒珠",
+        "DecorationName1": "治癒珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "體力回復量UP"
+    },
+    {
+        "DecId": "1356",
+        "SkillId": "3321",
+        "skillMaxLv": "3",
+        "skillCotent": "可抑制隨著時間經過，耐力計量表最大值的減少。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:耐力減少的間隔時間延長50%",
+                "s2": "。2級:耐力減少的間隔時間延長100%",
+                "s3": "。3級:耐力最大值不會減少"
+            }
+        ],
+        "DecorationName": "無食珠",
+        "DecorationName1": "治癒珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "飢餓耐性"
+    },
+    {
+        "DecId": "1873",
+        "SkillId": "3067",
+        "skillMaxLv": "1",
+        "skillCotent": "剝取中即使遭受攻擊，也不會被擊飛。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動技能效果"
+            }
+        ],
+        "DecorationName": "剝皮珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "剝取鐵人"
+    },
+    {
+        "DecId": "1296",
+        "SkillId": "3931",
+        "skillMaxLv": "3",
+        "skillCotent": "減輕泡沫纏身的影響，並藉由泡沫提升迴避能力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:減輕泡沫纏身【大】的影響",
+                "s2": "。2級:將泡沫纏身【大】減輕為【小】，強化泡沫纏身時的迴避能力",
+                "s3": "。3級:進行迴避動作數次後，自動進入泡沫纏身的狀態"
+            }
+        ],
+        "DecorationName": "泡沫珠",
+        "DecorationName1": "泡沫珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "泡沫之舞"
+    },
+    {
+        "DecId": "1131",
+        "SkillId": "3201",
+        "skillMaxLv": "2",
+        "skillCotent": "提升弩槍的特殊彈藥與弓的龍之箭威力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:弩槍的特殊彈藥與弓的龍之箭威力變為1.1倍",
+                "s2": "。2級:弩槍的特殊彈藥與弓的龍之箭威力變為1.2倍"
+            }
+        ],
+        "DecorationName": "特射珠",
+        "DecorationName1": "特射珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "特殊射擊強化"
+    },
+    {
+        "DecId": "1110",
+        "SkillId": "3328",
+        "skillMaxLv": "3",
+        "skillCotent": "以太刀、雙劍、操蟲棍、劍斧、盾斧發動的強化狀態持續時間增加。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:稍微延長強化時間",
+                "s2": "。2級:延長強化時間",
+                "s3": "。3級:大幅延長強化時間"
+            }
+        ],
+        "DecorationName": "昂揚珠",
+        "DecorationName1": "昂揚珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "強化持續"
+    },
+    {
+        "DecId": "1132",
+        "SkillId": "3371",
+        "skillMaxLv": "3",
+        "skillCotent": "受到傷害時，紅色計量表部分的回復速度提升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:紅色計量表的自動回復速度2倍",
+                "s2": "。2級:紅色計量表的自動回復速度3倍",
+                "s3": "。3級:紅色計量表的自動回復速度4倍"
+            }
+        ],
+        "DecorationName": "早復珠",
+        "DecorationName1": "早復珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "回復速度"
+    },
+    {
+        "DecId": "1186",
+        "SkillId": "3094",
+        "skillMaxLv": "3",
+        "skillCotent": "銃槍的砲擊、龍擊砲、盾斧的瓶攻擊、徹甲榴彈等伴隨爆炸的攻擊，威力將會上升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:對象的攻擊威力1.1倍，減少龍擊砲的冷卻時間15%",
+                "s2": "。2級:對象的攻擊威力1.2倍，減少龍擊砲的冷卻時間30%",
+                "s3": "。3級:對象的攻擊威力1.3倍，減少龍擊砲的冷卻時間50%"
+            }
+        ],
+        "DecorationName": "砲術珠",
+        "DecorationName1": "砲術珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "砲術"
+    },
+    {
+        "DecId": "1184",
+        "SkillId": "3308",
+        "skillMaxLv": "5",
+        "skillCotent": "擁有對大型魔物咆哮的耐性",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:減輕咆哮【小】的影響",
+                "s2": "。2級:使咆哮【小】無效",
+                "s3": "。3級:使咆哮【小】無效，減輕咆哮【大】的影響",
+                "s4": "。4級:使咆哮【小】【大】無效",
+                "s5": "。5級:使咆哮【小】【大】無效，減輕強力咆哮的影響"
+            }
+        ],
+        "DecorationName": "砲術珠",
+        "DecorationName1": "砲術珠",
+        "DecorationSlots": "【3】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "耳塞"
+    },
+    {
+        "DecId": "1579",
+        "SkillId": "3372",
+        "skillMaxLv": "1",
+        "skillCotent": "加快狩獵笛演奏與多重演奏的速度，提升衝擊波的傷害。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動技能效果"
+            }
+        ],
+        "DecorationName": "鼓笛珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "吹笛名人"
+    },
+    {
+        "DecId": "1099",
+        "SkillId": "3929",
+        "skillMaxLv": "3",
+        "skillCotent": "強化毒屬性的累積值。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:毒素累積值變為1.05倍，毒素累積值+1",
+                "s2": "。毒素累積值變為1.1倍，毒素累積值+2",
+                "s3": "。毒素累積值變為1.2倍，毒素累積值+5"
+            }
+        ],
+        "DecorationName": "毒珠",
+        "DecorationName1": "毒珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "毒屬性強化"
+    },
+    {
+        "DecId": "1938",
+        "SkillId": "3846",
+        "skillMaxLv": "3",
+        "skillCotent": "延長迴避時的移動距離。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅延長迴避距離",
+                "s2": "。2級:延長迴避距離",
+                "s3": "。3級:大幅延長迴避距離"
+            }
+        ],
+        "DecorationName": "跳躍珠",
+        "DecorationName1": "跳躍珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "迴避距離UP"
+    },
+    {
+        "DecId": "1357",
+        "SkillId": "3927",
+        "skillMaxLv": "2",
+        "skillCotent": "裝填砲彈變得更加流暢，增加銃槍的裝填數與盾斧的裝填數。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:加快彈與瓶的裝填速度",
+                "s2": "。2級:銃槍的裝填數額外+1，提升盾斧的充能數量"
+            }
+        ],
+        "DecorationName": "增彈珠",
+        "DecorationName1": "增彈珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "砲彈裝填"
+    },
+    {
+        "DecId": "1584",
+        "SkillId": "3467",
+        "skillMaxLv": "3",
+        "skillCotent": "擁有對地面震動的耐性。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:使震動【小】無效",
+                "s2": "。2級:使震動【小】無效，減輕震動【大】的影響",
+                "s3": "。3級:使震動【小】【大】無效"
+            }
+        ],
+        "DecorationName": "耐震珠",
+        "DecorationName1": "耐震珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "耐震"
+    },
+    {
+        "DecId": "1544",
+        "SkillId": "3867",
+        "skillMaxLv": "1",
+        "skillCotent": "令操龍技巧更加熟練",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:使操龍計量表更容易累績，並更容易進行迴避反擊"
+            }
+        ],
+        "DecorationName": "騎慣珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "騎乘名人"
+    },
+    {
+        "DecId": "1097",
+        "SkillId": "3496",
+        "skillMaxLv": "3",
+        "skillCotent": "減輕受到小傷害時的反作用力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:減輕膽怯",
+                "s2": "。2級:使後仰無效。將屁股著地減輕為後仰狀態",
+                "s3": "。3級:使後仰、屁股著地無效"
+            }
+        ],
+        "DecorationName": "耐衝珠",
+        "DecorationName1": "耐衝珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "減輕膽怯"
+    },
+    {
+        "DecId": "1967",
+        "SkillId": "3045",
+        "skillMaxLv": "3",
+        "skillCotent": "追加、強化武器拔刀攻擊所引起昏厥的能力，攻擊力也會小幅提升。（鐵蟲絲招式除外）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅附加引起昏厥的能力。武器拔刀攻擊的攻擊力+3",
+                "s2": "。2級:附加引起昏厥的能力。武器拔刀攻擊的攻擊力+5",
+                "s3": "。3級:大幅附加引起昏厥的能力。武器拔刀攻擊的攻擊力+7"
+            }
+        ],
+        "DecorationName": "拔打珠",
+        "DecorationName1": "拔打珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "拔刀術【力】"
+    },
+    {
+        "DecId": "1939",
+        "SkillId": "3301",
+        "skillMaxLv": "5",
+        "skillCotent": "防禦時不易後仰，並減輕耐力的消耗。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅減少攻擊威力",
+                "s2": "。2級:小幅減少攻擊威力，減少耐力消耗量15%",
+                "s3": "。3級:減少攻擊威力，減少耐力消耗量15%",
+                "s4": "。4級:減少攻擊威力，減少耐力消耗量30%",
+                "s5": "。5級:大幅減少攻擊威力，減少耐力消耗量30%"
+            }
+        ],
+        "DecorationName": "鐵壁珠",
+        "DecorationName1": "鐵壁珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【3】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "防禦性能"
+    },
+    {
+        "DecId": "1031",
+        "SkillId": "3031",
+        "skillMaxLv": "3",
+        "skillCotent": "因攻擊而出現會心時，所造成的屬性傷害（火、水、雷、冰、龍）會提高。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果發動時，屬性傷害變為1.05倍",
+                "s2": "。2級:效果發動時，屬性傷害變為1.1倍",
+                "s3": "。3級:效果發動時，屬性傷害變為1.15倍"
+            }
+        ],
+        "DecorationName": "屬會珠",
+        "DecorationName1": "屬會珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "會心擊【屬性】"
+    },
+    {
+        "DecId": "1019",
+        "SkillId": "3091",
+        "skillMaxLv": "3",
+        "skillCotent": "蓄力攻擊的蓄力速度提升，太刀、雙劍、劍斧、盾斧、弩槍的計量表更容易累積。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:計量表上升率5%UP，蓄力時間縮短5%",
+                "s2": "。2級:計量表上升率10%UP，蓄力時間縮短10%",
+                "s3": "。3級:計量表上升率10%UP，蓄力時間縮短10%"
+            }
+        ],
+        "DecorationName": "縮短珠",
+        "DecorationName1": "縮短珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "集中"
+    },
+    {
+        "DecId": "12002",
+        "SkillId": "3901",
+        "skillMaxLv": "7",
+        "skillCotent": "會心率UP。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:會心率+5%",
+                "s2": "。2級:會心率+10%",
+                "s3": "。3級:會心率+15%",
+                "s4": "。4級:會心率+20%",
+                "s5": "。5級:會心率+25%",
+                "s6": "。6級:會心率+30%",
+                "s7": "。7級:會心率+40%"
+            }
+        ],
+        "DecorationName": "達人珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "看破"
+    },
+    {
+        "DecId": "12412",
+        "SkillId": "3999",
+        "skillMaxLv": "3",
+        "skillCotent": "增加弩槍的裝填數。（裝填數有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:增加部分彈藥的裝填數",
+                "s2": "。2級:增加大多數彈藥的裝填數",
+                "s3": "。3級:增加絕大多數彈藥的裝填數"
+            }
+        ],
+        "DecorationName": "裝填珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "裝填擴充"
+    },
+    {
+        "DecId": "12759",
+        "SkillId": "347794",
+        "skillMaxLv": "3",
+        "skillCotent": "特定攻擊會更容易使魔物疲勞。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:已可食用青菇與毒菇",
+                "s2": "。2級:追加已可食用爆炸菇與麻痺菇",
+                "s3": "。3級:追加可食用的風茄與心跳加速菇"
+            }
+        ],
+        "DecorationName": "愛菇珠",
+        "DecorationName1": "愛菇珠",
+        "DecorationSlots": "【3】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "最愛菇類"
+    },
+    {
+        "DecId": "179472",
+        "SkillId": "3568",
+        "skillMaxLv": "3",
+        "skillCotent": "維持耐力計量表全滿狀態一段時間後，會心率上升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果發動時，會心率+10%",
+                "s2": "。2級:效果發動時，會心率+20%",
+                "s3": "。3級:效果發動時，會心率+30%"
+            }
+        ],
+        "DecorationName": "渾身珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "精神抖擻"
+    },
+    {
+        "DecId": "12709",
+        "SkillId": "3406",
+        "skillMaxLv": "3",
+        "skillCotent": "可以防禦一般無法防禦的攻擊。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:減少傷害30%",
+                "s2": "。2級:減少傷害50%",
+                "s3": "。3級:減少傷害80%"
+            }
+        ],
+        "DecorationName": "強壁珠",
+        "DecorationName1": "強壁珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "防禦強化"
+    },
+    {
+        "DecId": "2356457",
+        "SkillId": "3457945",
+        "skillMaxLv": "3",
+        "skillCotent": "進行衝刺等等漸漸消耗耐力的行動時，所需的耐力消耗量減低。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:持續耐力消耗量減少15%",
+                "s2": "。2級:持續耐力消耗量減少30%",
+                "s3": "。3級:持續耐力消耗量減少50%"
+            }
+        ],
+        "DecorationName": "強走珠",
+        "DecorationName1": "強走珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "跑者"
+    },
+    {
+        "DecId": "56789",
+        "SkillId": "45747",
+        "skillMaxLv": "3",
+        "skillCotent": "彈藥、箭矢能發揮最大威力的距離增加",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:適當距離小幅增加",
+                "s2": "。2級:適當距離增加",
+                "s3": "。3級:適當距離大幅增加"
+            }
+        ],
+        "DecorationName": "射法珠",
+        "DecorationName1": "射法珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "彈道強化"
+    },
+    {
+        "DecId": "34799",
+        "SkillId": "47878",
+        "skillMaxLv": "3",
+        "skillCotent": "武器拔刀攻擊後，會提升一定時間的會心率。（鐵蟲絲招式除外）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:會心率+10%",
+                "s2": "。2級:會心率+20%",
+                "s3": "。3級:會心率+40%"
+            }
+        ],
+        "DecorationName": "拔刀珠",
+        "DecorationName1": "拔刀珠",
+        "DecorationSlots": "【3】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "拔刀術【技】"
+    },
+    {
+        "DecId": "4568458",
+        "SkillId": "456854",
+        "skillMaxLv": "7",
+        "skillCotent": "攻擊力變為1.1倍、攻擊力+10",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:攻擊力+3",
+                "s2": "。2級:攻擊力+6",
+                "s3": "。3級:攻擊力+9",
+                "s4": "。4級:攻擊力變為1.05倍、攻擊力+7",
+                "s5": "。5級:攻擊力變為1.06倍、攻擊力+8",
+                "s6": "。6級:攻擊力變為1.08倍、攻擊力+9",
+                "s7": "。7級:攻擊力變為1.1倍、攻擊力+10"
+            }
+        ],
+        "DecorationName": "攻擊珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "攻擊"
+    },
+    {
+        "DecId": "12346",
+        "SkillId": "76854",
+        "skillMaxLv": "3",
+        "skillCotent": "加快耐力的回復速度。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:回復速度1.1倍",
+                "s2": "。2級:回復速度1.2倍",
+                "s3": "。3級:回復速度1.4倍"
+            }
+        ],
+        "DecorationName": "早氣珠",
+        "DecorationName1": "早氣珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "耐力急速回復"
+    },
+    {
+        "DecId": "12353",
+        "SkillId": "321312",
+        "skillMaxLv": "3",
+        "skillCotent": "抓準時機防禦成功的話，會提升一定時間的攻擊力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，攻擊力1.05倍",
+                "s2": "。2級:技能發動時，攻擊力1.1倍",
+                "s3": "。3級:技能發動時，攻擊力1.15倍"
+            }
+        ],
+        "DecorationName": "守勢珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "攻擊守勢"
+    },
+    {
+        "DecId": "06789",
+        "SkillId": "56885",
+        "skillMaxLv": "3",
+        "skillCotent": "縮短砥石的使用時間。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:省略研磨動作1次",
+                "s2": "。2級:省略研磨動作2次",
+                "s3": "。3級:省略研磨動作3次"
+            }
+        ],
+        "DecorationName": "研磨珠",
+        "DecorationName1": "研磨珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "砥石使用高速化"
+    },
+    {
+        "DecId": "123429",
+        "SkillId": "95878",
+        "skillMaxLv": "3",
+        "skillCotent": "斬擊斧與充能斧的變形動作速度加快，且傷害提升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:速度變為1.1倍",
+                "s2": "。2級:速度變為1.2倍，變形攻擊的傷害變為1.1倍",
+                "s3": "。3級:速度變為1.3倍，變形攻擊的傷害變為1.2倍"
+            }
+        ],
+        "DecorationName": "速變珠",
+        "DecorationName1": "速變珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "高速變形"
+    },
+    {
+        "DecId": "66782",
+        "SkillId": "39777",
+        "skillMaxLv": "3",
+        "skillCotent": "攻擊不易被彈開，提升對堅硬部位造成的傷害。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:攻擊有50%機率不會被彈開。對堅硬部位造成的傷害變為1.1倍",
+                "s2": "。2級:攻擊有100%機率不會被彈開。對堅硬部位造成的傷害變為1.15倍",
+                "s3": "。3級:攻擊有100%機率不會被彈開。對堅硬部位造成的傷害變為1.3倍"
+            }
+        ],
+        "DecorationName": "心眼珠",
+        "DecorationName1": "心眼珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "心眼"
+    },
+    {
+        "DecId": "144452",
+        "SkillId": "3123123",
+        "skillMaxLv": "3",
+        "skillCotent": "更容易讓魔物陷入昏厥狀態。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:昏厥威力1.2倍",
+                "s2": "。2級:昏厥威力1.3倍",
+                "s3": "。3級:昏厥威力1.4倍"
+            }
+        ],
+        "DecorationName": "KO珠",
+        "DecorationName1": "KO珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "KO術"
+    },
+    {
+        "DecId": "14806",
+        "SkillId": "37898",
+        "skillMaxLv": "4",
+        "skillCotent": "增加藥草等消耗道具的取得數。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:草系消耗道具的取得數+1",
+                "s2": "。2級:果實、種子系消耗道具的取得數額外+1",
+                "s3": "。3級:蟲系消耗道具的取得數+1",
+                "s4": "。4級:菇系消耗道具的取得數+1"
+            }
+        ],
+        "DecorationName": "植學珠",
+        "DecorationName1": "植學珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "植生學"
+    },
+    {
+        "DecId": "12396",
+        "SkillId": "39465",
+        "skillMaxLv": "1",
+        "skillCotent": "每次力竭倒下後，攻擊力與防禦力就會提升。（在部分任務無效，最多發動2次）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:每次攻擊力1.1倍，防禦力1.15倍"
+            }
+        ],
+        "DecorationName": "逆境珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "不屈"
+    },
+    {
+        "DecId": "1794",
+        "SkillId": "304653",
+        "skillMaxLv": "1",
+        "skillCotent": "可朝著大型魔物進行跳躍迴避。同時會延長飛躍距離。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:可發動技能"
+            }
+        ],
+        "DecorationName": "飛躍珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "飛身躍入"
+    },
+    {
+        "DecId": "119592",
+        "SkillId": "30951",
+        "skillMaxLv": "3",
+        "skillCotent": "擁有對爆破異常狀態的耐性。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:延長爆破前的間隔時間，減輕爆破時受到的傷害",
+                "s2": "。2級:更加延長爆破前的間隔時間，大幅減輕爆破時受到的傷害",
+                "s3": "。3級:不會變為爆破異常狀態"
+            }
+        ],
+        "DecorationName": "耐爆珠",
+        "DecorationName1": "耐爆珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "爆破異常狀態的耐性"
+    },
+    {
+        "DecId": "10904",
+        "SkillId": "303801",
+        "skillMaxLv": "3",
+        "skillCotent": "提高玩家的龍耐性。等級提高後，也會影響防禦力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:龍耐性+6",
+                "s2": "。2級:龍耐性+12",
+                "s3": "。3級:龍耐性+20、防禦力+10"
+            }
+        ],
+        "DecorationName": "耐龍珠",
+        "DecorationName1": "耐龍珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "龍耐性"
+    },
+    {
+        "DecId": "104502",
+        "SkillId": "3023501",
+        "skillMaxLv": "3",
+        "skillCotent": "提高玩家的雷耐性。等級提高後，也會影響防禦力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:雷耐性+6",
+                "s2": "。2級:雷耐性+12",
+                "s3": "。3級:雷耐性+20、防禦力+10"
+            }
+        ],
+        "DecorationName": "耐雷珠",
+        "DecorationName1": "耐雷珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "雷耐性"
+    },
+    {
+        "DecId": "100293",
+        "SkillId": "399221",
+        "skillMaxLv": "3",
+        "skillCotent": "縮短麻痺狀態的時間。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:麻痺狀態的時間減少30%",
+                "s2": "。2級:麻痺狀態的時間減少60%",
+                "s3": "。3級:不會變為麻痺狀態"
+            }
+        ],
+        "DecorationName": "耐麻珠",
+        "DecorationName1": "耐麻珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "麻痺耐性"
+    },
+    {
+        "DecId": "10023",
+        "SkillId": "300981",
+        "skillMaxLv": "3",
+        "skillCotent": "縮短睡眠狀態的時間。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:睡眠狀態的時間減少30%",
+                "s2": "。2級:睡眠狀態的時間減少60%",
+                "s3": "。3級:不會變為睡眠狀態"
+            }
+        ],
+        "DecorationName": "耐眠珠",
+        "DecorationName1": "耐眠珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "睡眠耐性"
+    },
+    {
+        "DecId": "109012",
+        "SkillId": "323001",
+        "skillMaxLv": "3",
+        "skillCotent": "減少中毒狀態時所受到的傷害。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:減少受到中毒傷害的次數",
+                "s2": "。2級:大幅減少受到中毒傷害的次數",
+                "s3": "。3級:不會陷入中毒狀態，並減輕猛毒影響"
+            }
+        ],
+        "DecorationName": "耐毒珠",
+        "DecorationName1": "耐毒珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "毒耐性"
+    },
+    {
+        "DecId": "134002",
+        "SkillId": "304201",
+        "skillMaxLv": "3",
+        "skillCotent": "提高玩家的冰耐性。等級提高後，也會影響防禦力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:冰耐性+6",
+                "s2": "。2級:冰耐性+12",
+                "s3": "。3級:冰耐性+20、防禦力+10"
+            }
+        ],
+        "DecorationName": "耐冰珠",
+        "DecorationName1": "耐冰珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "冰耐性"
+    },
+    {
+        "DecId": "1312323",
+        "SkillId": "345686",
+        "skillMaxLv": "3",
+        "skillCotent": "提高玩家的火耐性。等級提高後，也會影響防禦力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:火耐性+6",
+                "s2": "。2級:火耐性+12",
+                "s3": "。3級:火耐性+20、防禦力+10"
+            }
+        ],
+        "DecorationName": "耐火珠",
+        "DecorationName1": "耐火珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "火耐性"
+    },
+    {
+        "DecId": "87562",
+        "SkillId": "99813",
+        "skillMaxLv": "3",
+        "skillCotent": "提高玩家的水耐性。等級提高後，也會影響防禦力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:水耐性+6",
+                "s2": "。2級:水耐性+12",
+                "s3": "。3級:水耐性+20、防禦力+10"
+            }
+        ],
+        "DecorationName": "耐水珠",
+        "DecorationName1": "耐水珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "水耐性"
+    },
+    {
+        "DecId": "03943",
+        "SkillId": "0012394",
+        "skillMaxLv": "2",
+        "skillCotent": "減輕魔物在泥地或深雪地帶引發的行動限制。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:減緩受到移動限制的效果",
+                "s2": "。2級:移動不會受到限制"
+            }
+        ],
+        "DecorationName": "泥雪珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "泥雪耐性"
+    },
+    {
+        "DecId": "0238589",
+        "SkillId": "893459",
+        "skillMaxLv": "1",
+        "skillCotent": "攻擊擊中時，能更加吸引魔物的注意。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動技能效果"
+            }
+        ],
+        "DecorationName": "佯攻珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "佯攻"
+    },
+    {
+        "DecId": "1301232",
+        "SkillId": "303231",
+        "skillMaxLv": "3",
+        "skillCotent": "增加採集點的取得數",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:骸骨採集點的採集次數+1",
+                "s2": "。2級:特產品採集點的取得數額外+1",
+                "s3": "。3級:礦石採掘點的取得數額外+1"
+            }
+        ],
+        "DecorationName": "地學珠",
+        "DecorationName1": "地學珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "地質學"
+    },
+    {
+        "DecId": "10321382",
+        "SkillId": "312301",
+        "skillMaxLv": "3",
+        "skillCotent": "提高爆彈系道具的傷害。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:威力1.1倍",
+                "s2": "。2級:威力1.2倍",
+                "s3": "。3級:威力1.3倍"
+            }
+        ],
+        "DecorationName": "爆師珠",
+        "DecorationName1": "爆師珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "炸彈客"
+    },
+    {
+        "DecId": "194223",
+        "SkillId": "39946",
+        "skillMaxLv": "5",
+        "skillCotent": "強化雷屬性之力。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:雷屬性攻擊值+2",
+                "s2": "。2級:雷屬性攻擊值+3",
+                "s3": "。3級:雷屬性攻擊值變為1.05倍，雷屬性攻擊值+4",
+                "s4": "。4級:雷屬性攻擊值變為1.1倍，雷屬性攻擊值+4",
+                "s5": "。5級:雷屬性攻擊值變為1.2倍，雷屬性攻擊值+4"
+            }
+        ],
+        "DecorationName": "雷光珠",
+        "DecorationName1": "雷光珠",
+        "DecorationName2": "雷光珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【2】",
+        "DecorationSlots2": "【3】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "DecSkillGrade2": "lll",
+        "skill": "雷屬性攻擊強化"
+    },
+    {
+        "DecId": "1939465",
+        "SkillId": "389495",
+        "skillMaxLv": "1",
+        "skillCotent": "進行滑行後，一定時間內會心率上升",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:可發動技能"
+            }
+        ],
+        "DecorationName": "滑走珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "滑走強化"
+    },
+    {
+        "DecId": "192934",
+        "SkillId": "399301",
+        "skillMaxLv": "5",
+        "skillCotent": "強化龍屬性之力。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:龍屬性攻擊值+2",
+                "s2": "。2級:龍屬性攻擊值+3",
+                "s3": "。3級:龍屬性攻擊值變為1.05倍，龍屬性攻擊值+4",
+                "s4": "。4級:龍屬性攻擊值變為1.1倍，龍屬性攻擊值+4",
+                "s5": "。5級:龍屬性攻擊值變為1.2倍，龍屬性攻擊值+4"
+            }
+        ],
+        "DecorationName": "破龍珠",
+        "DecorationName1": "破龍珠",
+        "DecorationName2": "破龍珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【2】",
+        "DecorationSlots2": "【3】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "DecSkillGrade2": "lll",
+        "skill": "龍屬性攻擊強化"
+    },
+    {
+        "DecId": "190123",
+        "SkillId": "39452",
+        "skillMaxLv": "5",
+        "skillCotent": "強化水屬性之力。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:水屬性攻擊值+2",
+                "s2": "。2級:水屬性攻擊值+3",
+                "s3": "。3級:水屬性攻擊值變為1.05倍，水屬性攻擊值+4",
+                "s4": "。4級:水屬性攻擊值變為1.1倍，水屬性攻擊值+4",
+                "s5": "。5級:水屬性攻擊值變為1.2倍，水屬性攻擊值+4"
+            }
+        ],
+        "DecorationName": "冰結珠",
+        "DecorationName1": "流水珠",
+        "DecorationName2": "流水珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【2】",
+        "DecorationSlots2": "【3】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "DecSkillGrade2": "lll",
+        "skill": "水屬性攻擊強化"
+    },
+    {
+        "DecId": "193294",
+        "SkillId": "23884",
+        "skillMaxLv": "7",
+        "DecSkillGrade": "",
+        "DecSkillGrade1": "ll",
+        "DecSkillGrade2": "lll",
+        "DecSkillGrade3": "V",
+        "skillCotent": "提高玩家的防禦力。等級提高後，也會影響耐性值。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:防禦力+5",
+                "s2": "。2級:防禦力+10",
+                "s3": "。3級:防禦力變為1.05倍，防禦力+10",
+                "s4": "。4級:防禦力變為1.05倍，防禦力+20，全屬性耐性值+3",
+                "s5": "。5級:防禦力變為1.08倍，防禦力+20，全屬性耐性值+3",
+                "s6": "。6級:防禦力變為1.08倍，防禦力+35，全屬性耐性值+5",
+                "s7": "。7級:防禦力變為1.1倍，防禦力+35，全屬性耐性值+5"
+            }
+        ],
+        "DecorationName": "防禦珠",
+        "DecorationName1": "防禦珠",
+        "DecorationName2": "防禦珠",
+        "DecorationName3": "防禦珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【2】",
+        "DecorationSlots2": "【3】",
+        "DecorationSlots3": "【4】",
+        "skill": "防禦"
+    },
+    {
+        "DecId": "134034",
+        "SkillId": "32949324",
+        "skillMaxLv": "5",
+        "skillCotent": "強化冰屬性之力。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:冰屬性攻擊值+2",
+                "s2": "。2級:冰屬性攻擊值+3",
+                "s3": "。3級:冰屬性攻擊值變為1.05倍，冰屬性攻擊值+4",
+                "s4": "。4級:冰屬性攻擊值變為1.1倍，冰屬性攻擊值+4",
+                "s5": "。5級:冰屬性攻擊值變為1.2倍，冰屬性攻擊值+4"
+            }
+        ],
+        "DecorationName": "冰結珠",
+        "DecorationName1": "冰結珠",
+        "DecorationName2": "冰結珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【2】",
+        "DecorationSlots2": "【3】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "DecSkillGrade2": "lll",
+        "skill": "冰屬性攻擊強化"
+    },
+    {
+        "DecId": "123203",
+        "SkillId": "309494",
+        "skillMaxLv": "5",
+        "skillCotent": "強化火屬性之力。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:火屬性攻擊值+2",
+                "s2": "。2級:火屬性攻擊值+3",
+                "s3": "。3級:火屬性攻擊值變為1.05倍，火屬性攻擊值+4",
+                "s4": "。4級:火屬性攻擊值變為1.1倍，火屬性攻擊值+4",
+                "s5": "。5級:火屬性攻擊值變為1.2倍，火屬性攻擊值+4"
+            }
+        ],
+        "DecorationName": "火炎珠",
+        "DecorationName1": "火炎珠",
+        "DecorationName2": "火炎珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【2】",
+        "DecorationSlots2": "【3】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "DecSkillGrade2": "lll",
+        "skill": "火屬性攻擊強化"
+    },
+    {
+        "DecId": "92933",
+        "SkillId": "213123",
+        "skillMaxLv": "3",
+        "skillCotent": "遭到擊飛後，提升攻擊力一段時間。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動後，攻擊力+10",
+                "s2": "。2級:技能發動後，攻擊力+15",
+                "s3": "。3級:技能發動後，攻擊力+25"
+            }
+        ],
+        "DecorationName": "逆襲珠",
+        "DecorationName1": "逆襲珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "逆襲"
+    },
+    {
+        "DecId": "6780",
+        "SkillId": "50687",
+        "skillMaxLv": "3",
+        "skillCotent": "擁有對風壓的耐性。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:使風壓【小】無效",
+                "s2": "。2級:使風壓【小】【大】無效",
+                "s3": "。3級:使風壓【小】【大】無效，減輕龍風壓的影響"
+            }
+        ],
+        "DecorationName": "防風珠",
+        "DecorationName1": "防風珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "風壓耐性"
+    },
+    {
+        "DecId": "45794",
+        "SkillId": "234561",
+        "skillMaxLv": "3",
+        "skillCotent": "更容易破壞大型魔物的部位",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:對部位的累積傷害變為1.1倍",
+                "s2": "。2級:對部位的累積傷害變為1.2倍",
+                "s3": "。3級:對部位的累積傷害變為1.3倍"
+            }
+        ],
+        "DecorationName": "重擊珠",
+        "DecorationName1": "重擊珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "破壞王"
+    },
+    {
+        "DecId": "123462",
+        "SkillId": "34561",
+        "skillMaxLv": "3",
+        "skillCotent": "擁有對全部的屬性異常狀態的耐性。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:所有屬性異常狀態的效果時間減少50%",
+                "s2": "。2級:所有屬性異常狀態的效果時間減少75%",
+                "s3": "。3級:使全屬性異常狀態無效"
+            }
+        ],
+        "DecorationName": "耐屬珠",
+        "DecorationName1": "耐屬珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "屬性異常狀態的耐性"
+    },
+    {
+        "DecId": "1634788",
+        "SkillId": "356786",
+        "skillMaxLv": "3",
+        "skillCotent": "加快食用肉及道具的速度。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅增加進食速度",
+                "s2": "。2級:小幅增加進食速度",
+                "s3": "。3級:大幅增加進食速度"
+            }
+        ],
+        "DecorationName": "快吃珠",
+        "DecorationName1": "快吃珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "快吃"
+    },
+    {
+        "DecId": "465757",
+        "SkillId": "08908",
+        "skillMaxLv": "3",
+        "skillCotent": "一定機率減少玩家受到的傷害。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果發動時，傷害減輕15%",
+                "s2": "。2級:效果發動時，傷害減輕30%",
+                "s3": "。3級:效果發動時，傷害減輕50%"
+            }
+        ],
+        "DecorationName": "加護珠",
+        "DecorationName1": "加護珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "精靈加護"
+    },
+    {
+        "DecId": "067060",
+        "SkillId": "34081",
+        "skillMaxLv": "5",
+        "skillCotent": "使用部分道具時的效果，對在一定範圍內的同伴也會有作用。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:給予周圍的同伴1/3的效果",
+                "s2": "。2級:給予大範圍內的同伴1/3的效果",
+                "s3": "。3級:給予大範圍內的同伴2/3的效果",
+                "s4": "。4級:給予極大範圍內的同伴2/3的效果",
+                "s5": "。5級:給予極大範圍內的同伴同樣的效果"
+            }
+        ],
+        "DecorationName": "友愛珠",
+        "DecorationName1": "友愛珠",
+        "DecorationName2": "友愛珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【3】",
+        "DecorationSlots2": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "DecSkillGrade2": "lV",
+        "skill": "廣域化"
+    },
+    {
+        "DecId": "142236",
+        "SkillId": "40341",
+        "skillMaxLv": "3",
+        "skillCotent": "縮短昏厥狀態的時間。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:昏厥狀態的時間減少60%",
+                "s2": "。2級:昏厥狀態的時間減少90%",
+                "s3": "。3級:不會變為昏厥狀態"
+            }
+        ],
+        "DecorationName": "耐絕珠",
+        "DecorationName1": "耐絕珠",
+        "DecorationSlots": "【1】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "lll",
+        "skill": "昏厥耐性"
+    },
+    {
+        "DecId": "124652",
+        "SkillId": "45361",
+        "skillMaxLv": "3",
+        "skillCotent": "加快弩槍的裝填速度與弓的裝瓶速度。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:提升弩槍的速度1個階段。加快弓的速度",
+                "s2": "。2級:提升弩槍的速度2個階段。能自動裝備弓的瓶",
+                "s3": "。3級:提升弩槍的速度3個階段。"
+            }
+        ],
+        "DecorationName": "早填珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "裝填速度"
+    },
+    {
+        "DecId": "3456",
+        "SkillId": "34356",
+        "skillMaxLv": "3",
+        "skillCotent": "強化麻痺屬性的累積值。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:麻痺累積值變為1.05倍，麻痺累積值+1",
+                "s2": "。2級:麻痺累積值變為1.1倍，麻痺累積值+2",
+                "s3": "。3級:麻痺累積值變為1.2倍，麻痺累積值+5"
+            }
+        ],
+        "DecorationName": "麻痺珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "麻痺屬性強化"
+    },
+    {
+        "DecId": "145675",
+        "SkillId": "36821",
+        "skillMaxLv": "5",
+        "skillCotent": "滿足特定條件後，一定時間內提高會心率。減輕固定消耗耐力行動的消耗量。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，會心率+10%、耐力消耗量減少30%",
+                "s2": "。2級:技能發動時，會心率+20%、耐力消耗量減少30%",
+                "s3": "。3級:技能發動時，會心率+40%、耐力消耗量減少50%",
+                "s4": "。4級:技能發動時，會心率+40%、耐力消耗量減少50%",
+                "s5": "。5級:技能發動時，會心率+50%、耐力消耗量減少50%"
+            }
+        ],
+        "DecorationName": "全開珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "力量解放"
+    },
+    {
+        "DecId": "19439",
+        "SkillId": "18585",
+        "skillMaxLv": "3",
+        "skillCotent": "身體狀態異常時會提升攻擊力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，攻擊力+5",
+                "s2": "。2級:技能發動時，攻擊力+10",
+                "s3": "。3級:技能發動時，攻擊力+20"
+            }
+        ],
+        "DecorationName": "絕境珠",
+        "DecorationName1": "絕境珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "死裡逃生"
+    },
+    {
+        "DecId": "123894",
+        "SkillId": "32341",
+        "skillMaxLv": "3",
+        "skillCotent": "體力計量表殘留有紅色部分的期間，攻擊力提升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，攻擊力+5",
+                "s2": "。2級:技能發動時，攻擊力+10",
+                "s3": "。3級:技能發動時，攻擊力+10"
+            }
+        ],
+        "DecorationName": "暴怒珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "怨恨"
+    },
+    {
+        "DecId": "38853",
+        "SkillId": "3995",
+        "skillMaxLv": "3",
+        "skillCotent": "特定攻擊會更容易使魔物疲勞。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，攻擊力+5",
+                "s2": "。2級:技能發動時，攻擊力+10",
+                "s3": "。3級:技能發動時，攻擊力+20"
+            }
+        ],
+        "DecorationName": "無傷珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "無傷"
+    },
+    {
+        "DecId": "120303",
+        "SkillId": "4556095",
+        "skillMaxLv": "3",
+        "skillCotent": "若戰鬥中大型魔物發怒。即會提高攻擊力與會心率。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，攻擊力+4、會心率+3%",
+                "s2": "。2級:技能發動時，攻擊力+8、會心率+5%",
+                "s3": "。3級:技能發動時，攻擊力+12、會心率+7%"
+            }
+        ],
+        "DecorationName": "挑戰珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "挑戰者"
+    },
+    {
+        "DecId": "12312466",
+        "SkillId": "3045301",
+        "skillMaxLv": "3",
+        "skillCotent": "攻擊魔物時，若對該部分的攻擊極有效果，會心率就會提升。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:攻擊有效部位時，會心率+15%",
+                "s2": "。2級:攻擊有效部位時，會心率+30%",
+                "s3": "。3級:攻擊有效部位時，會心率+50%"
+            }
+        ],
+        "DecorationName": "痛擊珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "弱點特效"
+    },
+    {
+        "DecId": "13453002",
+        "SkillId": "3034501",
+        "skillMaxLv": "3",
+        "skillCotent": "完成任務獲得的報酬數量容易變多。（從任務中途開始使用不會有效果）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅提升報酬數增加的機率",
+                "s2": "。2級:提升報酬數增加的機率",
+                "s3": "。3級:大幅提升報酬數增加的機率"
+            }
+        ],
+        "DecorationName": "運氣珠",
+        "DecorationName1": "運氣珠",
+        "DecorationSlots": "【3】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "幸運"
+    },
+    {
+        "DecId": "108672",
+        "SkillId": "30689001",
+        "skillMaxLv": "1",
+        "skillCotent": "跳躍中即使遭受攻擊，也不會後仰。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:跳躍中，後仰無效"
+            }
+        ],
+        "DecorationName": "強跳珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "跳躍鐵人"
+    },
+    {
+        "DecId": "18790",
+        "SkillId": "47555",
+        "skillMaxLv": "3",
+        "skillCotent": "強化輕弩槍的速射能力",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:速射彈的傷害變為1.05倍",
+                "s2": "。2級:速射彈的傷害變為1.1倍",
+                "s3": "。3級:速射彈的傷害變為1.2倍"
+            }
+        ],
+        "DecorationName": "速射珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "速射強化"
+    },
+    {
+        "DecId": "15678002",
+        "SkillId": "56781",
+        "skillMaxLv": "3",
+        "skillCotent": "發射時有低機率不消耗弩槍的彈藥及弓的瓶。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動率3%",
+                "s2": "。2級:發動率10%",
+                "s3": "。3級:發動率20%"
+            }
+        ],
+        "DecorationName": "省彈珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "彈藥節約"
+    },
+    {
+        "DecId": "12364002",
+        "SkillId": "30568801",
+        "skillMaxLv": "3",
+        "skillCotent": "銳利度消耗較少。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動機率10%",
+                "s2": "。2級:發動機率25%",
+                "s3": "。3級:發動機率50%"
+            }
+        ],
+        "DecorationName": "斬鐵珠",
+        "DecorationName1": "斬鐵珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "利刃"
+    },
+    {
+        "DecId": "1236235",
+        "SkillId": "3057531",
+        "skillMaxLv": "3",
+        "skillCotent": "拔刀時若以迴避的無敵時間避開攻擊，將回復銳利度或裝填弩槍的彈藥。若裝備的武器為弓，則提升接擊瓶的性能一段時間。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:有50%機率發動效果",
+                "s2": "。2級:有75%機率發動效果",
+                "s3": "。3級:有100%機率發動效果"
+            }
+        ],
+        "DecorationName": "刃鱗珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "刃鱗研磨"
+    },
+    {
+        "DecId": "25257",
+        "SkillId": "3467001",
+        "skillMaxLv": "3",
+        "skillCotent": "提升弩槍散彈、擴散彈或是弓的擴散箭的攻擊力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅提升散彈、放射彈、擴散箭的威力",
+                "s2": "。2級:提升貫散彈、放射彈、擴散箭的威力",
+                "s3": "。3級:大幅提升散彈、放射彈、擴散箭的威力"
+            }
+        ],
+        "DecorationName": "散彈珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "散彈・擴散箭強化"
+    },
+    {
+        "DecId": "19456002",
+        "SkillId": "304366",
+        "skillMaxLv": "3",
+        "skillCotent": "提升弩槍貫通彈或是弓的貫通箭的攻擊力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅提升貫通彈、貫通箭的威力",
+                "s2": "。2級:提升貫通彈、貫通箭的威力",
+                "s3": "。3級:大幅提升貫通彈、貫通箭的威力"
+            }
+        ],
+        "DecorationName": "貫通珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "貫通彈・貫通箭強化"
+    },
+    {
+        "DecId": "13296",
+        "SkillId": "23443256",
+        "skillMaxLv": "3",
+        "skillCotent": "提升弩槍通常彈或是弓的連射箭的攻擊力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:小幅提升通常彈、連射箭的威力",
+                "s2": "。2級:提升通常彈、連射箭的威力",
+                "s3": "。3級:大幅提升通常彈、連射箭的威力"
+            }
+        ],
+        "DecorationName": "強彈珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "通常彈・連射箭強化"
+    },
+    {
+        "DecId": "18458002",
+        "SkillId": "234052",
+        "skillMaxLv": "3",
+        "skillCotent": "研磨武器後，一定時間內銳利度不會降低。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動後，效果持續30秒",
+                "s2": "。2級:技能發動後，效果持續60秒",
+                "s3": "。3級:技能發動後，效果持續90秒"
+            }
+        ],
+        "DecorationName": "剛刃珠",
+        "DecorationName1": "剛刃珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "剛刃研磨"
+    },
+    {
+        "DecId": "123996",
+        "SkillId": "6076",
+        "skillMaxLv": "3",
+        "skillCotent": "強化爆破屬性的累積值。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:爆破累積值變為1.05倍，爆破累積值+1",
+                "s2": "。2級:爆破累積值變為1.1倍，爆破累積值+2",
+                "s3": "。3級:爆破累積值變為1.2倍，爆破累積值+5"
+            }
+        ],
+        "DecorationName": "爆破珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "爆破屬性強化"
+    },
+    {
+        "DecId": "994554",
+        "SkillId": "9385",
+        "skillMaxLv": "3",
+        "skillCotent": "強化睡眠屬性的累積值。（武器屬性值的強化有其上限）",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:睡眠累積值變為1.05倍，睡眠累積值+1",
+                "s2": "。2級:睡眠累積值變為1.1倍，睡眠累積值+2",
+                "s3": "。3級:睡眠累積值變為1.2倍，睡眠累積值+5"
+            }
+        ],
+        "DecorationName": "睡眠珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "睡眠屬性強化"
+    },
+    {
+        "DecId": "112345",
+        "SkillId": "9953001",
+        "skillMaxLv": "3",
+        "skillCotent": "發生會心攻擊時，銳利度消耗較少。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果發動時，有20%機率不會消耗銳利度。",
+                "s2": "。2級:效果發動時，有40%機率不會消耗銳利度。",
+                "s3": "。3級:效果發動時，有80%機率不會消耗銳利度。"
+            }
+        ],
+        "DecorationName": "達藝珠",
+        "DecorationName1": "達藝珠",
+        "DecorationSlots": "【2】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "達人藝"
+    },
+    {
+        "DecId": "99523",
+        "SkillId": "2340",
+        "skillMaxLv": "5",
+        "skillCotent": "延長武器銳利度的計量表。但銳利度的計量表不會超過上限。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:武器的銳利度+10",
+                "s2": "。2級:武器的銳利度+20",
+                "s3": "。3級:武器的銳利度+30",
+                "s4": "。4級:武器的銳利度+40",
+                "s5": "。5級:武器的銳利度+50"
+            }
+        ],
+        "DecorationName": "匠珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "匠"
+    },
+    {
+        "DecId": "12995",
+        "SkillId": "5388",
+        "skillMaxLv": "3",
+        "skillCotent": "增加會心攻擊的傷害。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:會心攻擊時的傷害倍率增強為1.3倍",
+                "s2": "。2級:會心攻擊時的傷害倍率增強為1.35倍",
+                "s3": "。3級:會心攻擊時的傷害倍率增強為1.4倍"
+            }
+        ],
+        "DecorationName": "超心珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "超會心"
+    },
+    {
+        "DecId": "12459",
+        "SkillId": "53563",
+        "skillMaxLv": "4",
+        "skillCotent": "擁有對抗鬼火的耐性，且滿足一定條件後，身上會包覆鬼火，並將爆炸化為攻擊手段。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:減少因鬼火而受到的傷害",
+                "s2": "。2級:增加以鬼火爆炸造成的傷害",
+                "s3": "。3級:魔物憤怒時，自動引發鬼火異常",
+                "s4": "。4級:魔物憤怒結束後，效果仍會持續1分鐘"
+            }
+        ],
+        "DecorationName": "鬼火珠",
+        "DecorationName1": "鬼火珠",
+        "DecorationSlots": "【3】",
+        "DecorationSlots1": "【4】",
+        "DecSkillGrade": "l",
+        "DecSkillGrade1": "ll",
+        "skill": "鬼火纏身"
+    },
+    {
+        "DecId": "1224369",
+        "SkillId": "53453",
+        "skillMaxLv": "1",
+        "skillCotent": "弓的蓄力階段增加1個階段",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動技能效果"
+            }
+        ],
+        "DecorationName": "強弓珠",
+        "DecorationSlots": "【4】",
+        "DecSkillGrade": "l",
+        "skill": "解放弓的蓄力階段"
+    },
+    {
+        "DecId": "12442",
+        "SkillId": "535353",
+        "skillMaxLv": "2",
+        "skillCotent": "如抓準時機在受到魔物攻擊時發動高速更換，不會做出受傷反應，所受傷害亦會減少",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動技能效果",
+                "s2": "。2級:使所受傷害無效，自動朝後方發動衝鋒，並稍微回復翔蟲計量表"
+            }
+        ],
+        "DecorationName": "合氣珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "合氣"
+    },
+    {
+        "DecId": "124868855",
+        "SkillId": "533523554",
+        "skillMaxLv": "3",
+        "skillCotent": "解除狀態異常或屬性異常後，攻擊力和迴避性能將提升一段時間",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，攻擊力+12、屬性值+2，狀態異常累積值變為1.05倍",
+                "s2": "。2級:技能發動時，攻擊力+15、屬性值+3，狀態異常累積值變為1.10倍",
+                "s3": "。3級:技能發動時，攻擊力+18、屬性值+4，狀態異常累積值變為1.15倍"
+            }
+        ],
+        "DecorationName": "轉福珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "轉禍為福"
+    },
+    {
+        "DecId": "129055",
+        "SkillId": "533087",
+        "skillMaxLv": "3",
+        "skillCotent": "回復銳利度時，將根據回復的階段，提升銳利度的性能",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:銳利度回復3階段時，發動技能效果60秒",
+                "s2": "。2級:銳利度回復2階段時，發動技能效果60秒",
+                "s3": "。3級:銳利度回復3階段時，發動技能效果90秒"
+            }
+        ],
+        "DecorationName": "銳研珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "研磨術【銳】"
+    },
+    {
+        "DecId": "929055",
+        "SkillId": "90347",
+        "skillMaxLv": "1",
+        "skillCotent": "每隔一段時間便會獲得鬼火鳥的其中一種效果。(部分任務除外)",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:發動技能效果"
+            }
+        ],
+        "DecorationName": "款待珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "款待"
+    },
+    {
+        "DecId": "729055",
+        "SkillId": "780347",
+        "skillMaxLv": "2",
+        "skillCotent": "提升弩槍客制強化零件的性能",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:提升消音器與盾牌的性能。若未裝備上述配備，則裝填速度+1",
+                "s2": "。2級:於Lv1效果之上額外提升加長槍管與強力槍管的性能。若未裝備上述配備，則裝填速度+1，抑制偏移+1"
+            }
+        ],
+        "DecorationName": "巧緻珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "槍械改良"
+    },
+    {
+        "DecId": "834959",
+        "SkillId": "894529",
+        "skillMaxLv": "5",
+        "skillCotent": "若戰鬥中大型魔物發怒。即會提高抵禦咆哮、風壓和震動的能力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:技能發動時，使咆哮、風壓、震動【小】無效",
+                "s2": "。2級:技能發動時，防禦力+5，使咆哮、風壓、震動【小】無效，並減輕咆哮、風壓、震動【大】的影響",
+                "s3": "。3級:技能發動時，防禦力+10，使咆哮、風壓、震動【小】【大】無效",
+                "s4": "。4級:技能發動時，防禦力+20，使咆哮、風壓、震動【小】【大】無效，並減輕強力咆哮與龍風壓的影響",
+                "s5": "。5級:技能發動時，防禦力+30，使咆哮、風壓、震動【小】【大】、強力咆哮、龍風壓無效"
+            }
+        ],
+        "DecorationName": "磐石珠",
+        "DecorationSlots": "【1】",
+        "DecSkillGrade": "l",
+        "skill": "堅若磐石"
+    },
+    {
+        "DecId": "934959",
+        "SkillId": "887753",
+        "skillMaxLv": "3",
+        "skillCotent": "以蓄力攻擊擊中魔物時，提升蓄力攻擊的屬性值與狀態異常累積值。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果發動時，小幅提升屬性傷害與狀態異常累積值",
+                "s2": "。2級:效果發動時，提升屬性傷害與狀態異常累積值",
+                "s3": "。3級:效果發動時，大幅提升屬性傷害與狀態異常累積值"
+            }
+        ],
+        "DecorationName": "強蓄珠",
+        "DecorationSlots": "【2】",
+        "DecSkillGrade": "l",
+        "skill": "蓄力大師"
+    },
+    {
+        "DecId": "9244959",
+        "SkillId": "244753",
+        "skillMaxLv": "1",
+        "skillCotent": "進行高速更換可解除或減輕部分狀態異常。解除的數量越多，可恢復越多體力。",
+        "skillCotentLv": [
+            {
+                "s1": "。1級:效果發動"
+            }
+        ],
+        "DecorationName": "吐納珠",
+        "DecorationSlots": "【3】",
+        "DecSkillGrade": "l",
+        "skill": "迅疾吐納"
+    }
+]

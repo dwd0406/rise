@@ -1,0 +1,146 @@
+@import '~antd/dist/antd.css';
+
+body {
+  background: url('https://github.com/heidiliu2020/react-blog-demo/blob/main/src/imgs/bg_1.jpg?raw=true') 50% 50% fixed no-repeat;
+  background-size: cover;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.home{
+  display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+.footer {
+  -webkit-text-size-adjust: 100%;
+  background-color: #000000;
+  width: calc(100%/2);
+  border-collapse: collapse;
+  margin: auto;
+  background-color: rgb(59, 59, 59);
+  flex: 1;
+}
+.footer a{
+  color: white;
+  text-align: center;
+  padding: 0px 16px;
+  }
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.SS {
+  pointer-events: none;
+  color: gray;
+}
+
+.Table1 {
+  -webkit-text-size-adjust: 100%;
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  text-align: left;
+  word-wrap: break-word;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: inherit;
+  vertical-align: baseline;
+  border: 1px solid #eee;
+  padding: 5px 10px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: calc(100%/2);
+  margin: auto;
+  background-color: rgb(59, 59, 59);
+}
+
+.Table1 td,
+#Table1 th {
+  height: 150px;
+  padding-right: 15px;
+}
+
+.Table1 tr:nth-child(even) {
+  background-color: #707070;
+}
+
+.Table1 tr:hover {
+  background-color: rgb(102, 2, 2);
+}
+
+.Table1 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.Nav {
+  position: fixed;
+  width: 100%;
+}
+
+.Input {
+  width: 100%;
+  border: 2px solid #000000;
+  outline: none;
+  margin-bottom: 50px;
+  border-radius: 50px;
+  margin: auto;
+
+}
+
+.InputD {
+  padding-top: 100px;
+  margin: auto;
+  width: calc(100% / 5);
+  margin-bottom: 20px;
+  border-radius: 50px;
+}
+
+.LiStyle {
+  list-style: none;
+}
+
+.LiStyle1 {
+  list-style: none;
+}
+
+.LiStyle2 li {
+  list-style: none;
+  padding-right: 100px;
+}
+
+.FontColor {
+  color: #52f3ff;
+}
+.Table2 {
+  -webkit-text-size-adjust: 100%;
+  color: rgb(255, 255, 255);
+  border: 1px solid;
+  table-layout: fixed;
+  width: calc(100%/2);
+  margin: auto;
+  background-color: rgb(59, 59, 59);
+}
