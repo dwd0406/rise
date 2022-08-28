@@ -7,7 +7,9 @@
 
 # testing
 /coverage
-
+/RampageData.json
+/RiseData.json
+RiseDataEqu.json
 # production
 /build
 
